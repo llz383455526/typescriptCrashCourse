@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+      "outDir": "./dist/",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "noFallthroughCasesInSwitch": true,
+      "module": "umd",
+      "target": "es6",
+      "jsx": "react"
+  },
+  "include": [
+      "./src/**/*"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "typescriptdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llz383455526/typescriptDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llz383455526/typescriptDemo/issues"
+  },
+  "homepage": "https://github.com/llz383455526/typescriptDemo#readme",
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
+}
